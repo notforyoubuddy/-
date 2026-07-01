@@ -9,6 +9,17 @@
   </head>
     
   <body>
+  <!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML pen</title>
+    <link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
   <di class="card">
   <h2> Balik kana please :(  </h2>
   <p> Happy monthsary. i'm sorry for leaving you, I'm aware that you're scared but i promise i changed. I'm not pressuring you or anything. If you don't want to then it's okay. I really really REALLY regret leaving you so plz come back na baby :( <p>
@@ -25,3 +36,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 </head>
+    
+  </body>
+  
+</html>
